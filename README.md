@@ -3,15 +3,10 @@ Tutorial github
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-      h1{
-      color:blue;
-      font-size:24pt;
-      }
-    </style>
     <title>hello world</title>
   </head>
   <body>
-    <h1> Tutorial github </h1>
+    <h2> Tutorial github </h2>
+    <p>testando github</p>
   </body>
 </html>
