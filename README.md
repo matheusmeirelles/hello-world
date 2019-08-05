@@ -5,10 +5,8 @@ Tutorial github
   <head>
     <style>
       h1{
-      background-color:black;
-      color:white;
+      color:blue;
       font-size:24pt;
-      font-family:Arial; 
       }
     </style>
     <title>hello world</title>
