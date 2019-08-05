@@ -7,6 +7,3 @@ Tutorial github
     <p>testando github</p>
   </body>
 </html>
-<script>
-  alert('isso é um teste')
-</script>
